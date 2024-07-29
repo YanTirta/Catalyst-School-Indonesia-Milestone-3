@@ -6,3 +6,5 @@ On the 26th of September 2023, two onboarding sessions occurred to help FP navig
 - F10 Onboarding Session B
 
 You can also view the presentation that was given during these sessions below:
+
+[F10 Cohort Onboarding - Sep 26 [public].pdf](https://github.com/user-attachments/files/16414384/F10.Cohort.Onboarding.-.Sep.26.public.pdf)
