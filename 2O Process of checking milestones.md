@@ -1,0 +1,12 @@
+# **Process of checking milestones**
+- FP submits milestone through the [Milestone Module](https://milestones.projectcatalyst.io/)
+- Milestone Reviewers check To do list/Updates section to see if there is milestone to review
+- First Milestone Reviewer compares if evidence of milestone provided meets the following: expected outputs, acceptance criteria or evidence of completion
+  - If verified: milestone is approved by first Milestone Reviewer
+  - If not verified: milestone is not approved by first Milestone Reviewer and feedback for FP is provided in the milestone module and PoA resubmission requested
+- Once first Milestone Reviewer reviews milestone, second Milestone Reviewer makes review
+- Second Milestone Reviewer compares if evidence of milestone provided meets acceptance criteria approved in milestone
+  - If verified: milestone is approved by the second Milestone Reviewer
+  - If not verified: milestone is not approved by second Milestone Reviewer, feedback for FP is provided and PoA resubmission requested
+- If one reviewer approves and the other does not, the Funded Projects has to resubmit the milestone, considering the comments provided, and go through the review process again.
+- Catalyst sign-off user will sign off milestone if possible
