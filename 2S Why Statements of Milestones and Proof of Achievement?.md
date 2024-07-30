@@ -1,0 +1,2 @@
+# **Why Statements of Milestones and Proof of Achievement?**
+The Statement of Milestones and Proof of Achievement processes was introduced to create more accountability towards the Cardano Community around the use of Cardano Treasury funds by Funded Projects. Funding controls prevent the treasury from being misused since Projects must demonstrate completion of a milestone before receiving funding for subsequent milestones.
