@@ -1,6 +1,6 @@
 # **F10 Onboarding Session A**
 
-[![Video Title](https://img.youtube.com/vi/_s4G9RTgL_A.jpg)](https://www.youtube.com/watch?v=_s4G9RTgL_A)
+[![Video Title](https://img.youtube.com/vi/_s4G9RTgL_A/0.jpg)](https://www.youtube.com/watch?v=_s4G9RTgL_A)
 
 0.00 Start
 
