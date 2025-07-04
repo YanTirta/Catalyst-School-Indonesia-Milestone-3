@@ -10,7 +10,7 @@ During the PoL meeting scheduled with the CT, each funded project lead represent
 
 2. Your project name & project ID# e.g. 1000001 (not ideascale ID#)
 
-   * Project ID# will be found in this document under Fund10 tab, Column B - post publishing F10 results 
+   * Project ID# will be found in [this document](https://bit.ly/FundedProjectsReporting) under Fund10 tab, Column B - post publishing F10 results 
 
 3. Your primary place of business (which city/country) 
 
@@ -20,9 +20,9 @@ During the PoL meeting scheduled with the CT, each funded project lead represent
 
    * When will your project delivery finish based on the scope of funding
 
-5. A video guide sample about how to do PoL can be found here.
+5. A video guide sample about how to do PoL can be found [here](https://drive.google.com/drive/u/0/folders/15935ULjwPPHj-Ktzn3Gdai_MPuK3K3Tb).
 
-6. If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. You will be provided here with office hours slots where you can attend a main PoL meeting. Your project will not begin until PoL is satisfied. 
+6. If you cannot attend any of the Proof of Life group sessions it’s your responsibility to contact your CT and arrange a 1 to 1 meeting. You will be provided [here](https://docs.google.com/spreadsheets/d/1AC73jXsicRpN3xJOPGc3trL6wBMzx4krO8Oafvz_0-w/edit?gid=0#gid=0) with office hours slots where you can attend a main PoL meeting. Your project will not begin until PoL is satisfied. 
 
 7. If you have already confirmed a PoL in previous funds you don’t need to do it again - you are automatically confirmed.
 
@@ -40,4 +40,4 @@ During the PoL meeting scheduled with the CT, each funded project lead represent
 
 11. If you do not attend any available PoL meeting with your CT then the CT will inform us and we will be in direct contact with you to establish if there is an issue. 
 
-If there are any issues with your PoL, please contact catalyst@iohk.io email to troubleshoot.
+If there are any issues with your PoL, please contact [catalyst@iohk.io](mailto:catalyst@iohk.io) email to troubleshoot.
