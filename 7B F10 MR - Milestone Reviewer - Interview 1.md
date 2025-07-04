@@ -1,6 +1,6 @@
 # **Milestone Reviewer - Interview 1**
 
-[![Video Title](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1WSgbrgHqq5E9Mh8hoBn%2Fuploads%2FpofmNvCMYMq0JKXNDc0Z%2FSoM_PoA%20review%20recording%20(2023-09-22%2014_08%20GMT%2B2).mp4?alt=media&token=58be7809-ae2c-4caa-8c10-c77d8854c8ae)
+[![Video Title](https://drive.google.com/file/d/1Ihg7TDSQnqks-P70JJHk22I8g1vmSL7T/view?usp=sharing)
 
 1. What kind of acceptance criteria/outputs should FP deliver during SoM formulation to have it approved by the Milestone Reviewers? 0:26
 2. What should Milestone Reviewer pay attention to during SoM review? 1:57
