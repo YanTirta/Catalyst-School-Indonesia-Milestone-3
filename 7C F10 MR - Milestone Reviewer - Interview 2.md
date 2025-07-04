@@ -1,6 +1,6 @@
 # **Milestone Reviewer - Interview 2**
 
-
+[![Video Title](https://raw.githubusercontent.com/YanTirta/Catalyst-School-Indonesia-Media/refs/heads/main/Milestone%20Reviewer%202.jpg)](https://drive.google.com/file/d/1mGsMh_qtOd_n-Gt3m_EfDv2p2bSo7u_g/view?usp=drive_link)
 
 1. What kind of acceptance criteria/outputs should FP deliver during SoM formulation to have it approved by the Milestone Reviewers? 0:31
 2. What should Milestone Reviewer pay attention to during SoM review? 1:51
