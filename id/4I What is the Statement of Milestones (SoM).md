@@ -1,0 +1,5 @@
+# **Apa itu Pernyataan Tonggak Sejarah (SoM)?**
+
+Semua proyek yang didanai mulai dari Fund10 dan seterusnya akan diminta untuk mengidentifikasi dan mendokumentasikan tonggak-tonggak utama proyek mereka selama proses orientasi sebelum dana mulai dicairkan. Dokumen ini dikenal sebagai Pernyataan Tonggak-Tonggak Utama dan akan ditempatkan di [Modul Tonggak-Tonggak Utama](https://milestones.projectcatalyst.io/) . Alat baru ini mengotomatiskan semua proses untuk mengirimkan, meninjau, menyetujui, dan mengelola tonggak-tonggak utama suatu proyek di seluruh siklus hidup proyek.
+
+Pendanaan berbasis tonggak memungkinkan proyek yang didanai untuk menyusun jalur kritis mereka guna memenuhi janji, dengan menyoroti setiap tonggak utama, keluaran, kriteria penerimaan, biaya, dan bukti pencapaian. Dalam konteks ini, tonggak adalah peristiwa atau tindakan penting dalam perjalanan proyek atau bisnis yang menandai tahap kemajuan yang krusial. Ini adalah alat pelaporan penting untuk memberi tahu tim Catalyst dan komunitas tentang kemajuan proyek.
