@@ -1,5 +1,5 @@
 # **Apa yang perlu Anda lakukan?**
-Ada dua tugas utama CT pada tahap orientasi -  - 
+Ada dua tugas utama CT pada tahap orientasi -
 1. Konfirmasikan Proof of Life dengan tim proyek Anda (Batas waktu pengisian formulir jadwal pertemuan PoL [meeting schedule form](https://docs.google.com/forms/d/e/1FAIpQLSd_5AotXKwNsglRiml-JMY-EpKm6EUmhLTfFDcwSQZFxeIeLw/viewform)
 2. Beri tahu Catalyst setelah Anda mengonfirmasi Proof of Life dengan semua proyek Anda
 
